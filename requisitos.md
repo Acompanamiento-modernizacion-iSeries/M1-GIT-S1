@@ -1,24 +1,31 @@
-#Requisitos sistema bancario Banco Futuro.
+﻿# Requisitos sistema bancario Banco Futuro.
 
-#Registro de la solicitud de usuario.
+## Funcionalidades:
 
-#Necesidad:
+### 1. Registro de usuarios:
 
-Yo como usuario requiero que se pueda crear una solicitud
-de crédito en el sistema con el fin de poder tener la opción que mejor se
-acomode a mi necesidad
+Yo como usuario requiero poder registrarme en la app y que está información quede registrada.
 
-#Criterios de aceptación:
+#### Criterios de aceptación:
 
-- Se debe tener la opción de crear la solicitud
-- La solicitud deberá llevar los siguientes campos:
-   o Tipo de crédito a solicitar
-   o Plazo
-   o El resto de los datos los toma por defecto del sistema
-- Debe tener un botón de enviar y otro para cancelar la solicitud
-- Si le da enviar solicitud deberá salir un cuadro de dialogo con el
-siguiente mensaje: “¿Está seguro de que desea enviar la solicitud?”,
-deberá tener la opción de editar solicitud y otra de confirmar él envió.
-- Cuando la solicitud sea enviada le deberá llegar un correo
-confirmando el envío y el detalle de la solicitud.
+- Se debe tener la opción de registrarse como usuario nuevo
+- Se solicitan los datos básicos de cada persona.
+- Se asigna por defecto un nombre de usuario compuesto por nombres y apellidos.
+- Se guarda toda la información del usuarios en base de datos
 
+### 2. Logs de auditoria:
+
+Yo como administrador de la app, requiero visualizar un log de auditoria en el cual pueda encontrar toda la información relacionada a las transacciones realizadas por el usuario en la app.
+
+#### Criterios de aceptación:
+
+- Se debe guardar cada transacción realizada en la app en un archivo de log.
+- Debe contener datos de fecha, hora, tipo de transacción, cuentas origen y destino, monto, estado.
+
+### 3. Recomendaciones de seguridad:
+
+Yo como administrador de la app, requiero contar con un paso a paso de buenas prácticas y sugerencias de seguridad a la hora de implementar la app.
+
+#### Criterios de aceptación:
+
+- Se debe contar con una guía de paso a paso de buenas practicas, sugerencias y demás consideraciones de seguridad.
