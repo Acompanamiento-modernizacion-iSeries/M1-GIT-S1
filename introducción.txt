@@ -1,0 +1,5 @@
+Banco Coquito SAS
+
+Entidad bancaria que busca que el movimiento de dinero de los clienteas sea cada vez más fácil.
+
+Para eso, se busca implementar un sistema de transferencias entre cuentas administradas con el celular.
