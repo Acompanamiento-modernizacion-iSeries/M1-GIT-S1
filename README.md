@@ -18,3 +18,5 @@ Los asistentes crearán un repositorio local, añadirán varios archivos de dife
     
 
 -   Los archivos entregables del proyecto deben ser subidos al área de preparación, cada uno en un commit, con su respectivo mensaje descriptivo.
+
+...
