@@ -1,0 +1,1 @@
+el sistema bancario debe ser instalado en terminales tipo portatil o computador, lo cual se debe descargar a traves de la pagina princpal del banco www.bancoh.com
