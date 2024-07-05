@@ -1,0 +1,1 @@
+Este documento contiene información general sobre la entidad bancaria y el proyecto para desarrollar un sistema bancario.
