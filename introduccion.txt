@@ -1,0 +1,5 @@
+# Banco Industrial de prueba
+
+Proyecto Fenix donde desarrollaremos el core bancario.
+
+Fin......
