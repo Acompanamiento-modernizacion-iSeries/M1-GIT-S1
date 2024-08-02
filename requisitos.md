@@ -1,0 +1,1 @@
+Generalmente los documentos que solicitan los bancos para este trámite son: Identificación oficial (credencial de elector, cartilla militar o pasaporte) y comprobante de domicilio no mayor a tres meses (recibo de luz, teléfono o agua).
