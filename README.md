@@ -1,6 +1,6 @@
+
 # M1-GIT-S1
 # **Taller: Repositorio local**
-> **Larry M. Ramírez - Coach Tecnico**
 
 # Objetivo.
 
@@ -18,3 +18,13 @@ Los asistentes crearán un repositorio local, añadirán varios archivos de dife
     
 
 -   Los archivos entregables del proyecto deben ser subidos al área de preparación, cada uno en un commit, con su respectivo mensaje descriptivo.
+=======
+# test-bc-git
+
+# Repositorio de prueba para Iseries
+
+- Jose Mauricio
+- Beatriz
+- Jun Carlos
+
+>- "Todo entendido"
