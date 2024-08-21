@@ -1,0 +1,8 @@
+Información General de la Entidad Bancaria y el Proyecto
+
+Entidad Bancaria: Banco Colombiano
+
+Descripción:
+Banco Colombiano es una institución financiera con más de 50 años de experiencia en el mercado, ofreciendo una amplia gama de servicios bancarios y financieros a individuos y empresas. Nuestro compromiso es proporcionar soluciones financieras innovadoras y de alta calidad que satisfagan las necesidades de nuestros clientes.
+
+Proyecto: Sistema Bancario Digital
